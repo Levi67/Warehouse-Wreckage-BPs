@@ -9,7 +9,11 @@
 				"D:/Codes/UnrealEngine/Warehouse-Wreckage-BPs/WarehouseWreackageBP/Content/StarterContent/Maps/Minimal_Default.umap",
 				"D:/Codes/UnrealEngine/Warehouse-Wreckage-BPs/WarehouseWreackageBP/Content/StarterContent/Maps/BP_projectile.uasset",
 				"D:/Codes/UnrealEngine/Warehouse-Wreckage-BPs/WarehouseWreackageBP/Content/ReusableObjects/BP_projectile.uasset",
-				"D:/Codes/UnrealEngine/Warehouse-Wreckage-BPs/WarehouseWreackageBP/Content/MainMap.umap"
+				"D:/Codes/UnrealEngine/Warehouse-Wreckage-BPs/WarehouseWreackageBP/Content/MainMap.umap",
+				"D:/Codes/UnrealEngine/Warehouse-Wreckage-BPs/WarehouseWreackageBP/Content/IndustryPropsPack6/Meshes/BP_Barrel.uasset",
+				"D:/Codes/UnrealEngine/Warehouse-Wreckage-BPs/WarehouseWreackageBP/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"D:/Codes/UnrealEngine/Warehouse-Wreckage-BPs/WarehouseWreackageBP/Content/BP_Barrel.uasset",
+				"D:/Codes/UnrealEngine/Warehouse-Wreckage-BPs/WarehouseWreackageBP/Content/ReusableObjects/BP_Barrel.uasset"
 			]
 		}
 	]
