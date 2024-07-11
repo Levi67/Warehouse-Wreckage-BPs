@@ -3,4 +3,4 @@
 <h2>Controlls:</h2>
   <h2>-Spacebar = Shoot </h2>
   <h2>-WASD = Fly around</h2>
-  <h2>-Mouse = Look around</h2>-Mouse = Look around
+  <h2>-Mouse = Look around</h2>
